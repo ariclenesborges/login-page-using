@@ -8,6 +8,8 @@ form{
   display: flex;
   flex-direction: column;
   position: absolute;
+  /*border: 1px solid #9ab6fd;
+  border-radius: 25px;*/
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);  
